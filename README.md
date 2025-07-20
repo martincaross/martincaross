@@ -1,6 +1,6 @@
 <!-- Banner principal (puedes cambiar el enlace a una imagen tuya o generada con herramientas como readme.so o banner-creator.tools) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4389A2&height=180&section=header&text=Hola%20👋%20Soy%20Martín&fontSize=30&fontAlign=50&fontColor=ffffff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4389A2&height=180&section=header&text=Hi%20👋%20I'm%20Martín&fontSize=30&fontAlign=50&fontColor=ffffff" alt="banner"/>
 </p>
 
 <h3 align="center">🌐 Full Stack Developer | Open to remote & international opportunities</h3>
