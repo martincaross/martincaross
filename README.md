@@ -42,8 +42,9 @@ I'm a **Full Stack Developer** trained at [4Geeks Academy](https://4geeksacademy
 ---
 
 🚧 In Progress
-🔭 Working on: Beacon – Final bootcamp project (coming soon to my GitHub)
-🌱 Learning: AWS Cloud Practitioner + basic German 🇩🇪
+- Working on: Beacon – Final bootcamp project (coming soon to my GitHub)
+- Learning: AWS Cloud Practitioner + basic German 🇩🇪
+- Tools: React Native + MongoDB
 
 ---
 
