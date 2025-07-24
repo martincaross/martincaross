@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4389A2&height=180&section=header&text=Hi%20👋%20I'm%20Martín&fontSize=30&fontAlign=50&fontColor=ffffff" alt="banner"/>
 </p>
 
-<h3 align="center">🌐 Full Stack Developer | Open to remote & international opportunities</h3>
+<h3 align="center">🌐 Full Stack Developer </h3>
 
 
 ## 👨‍💻 About Me
